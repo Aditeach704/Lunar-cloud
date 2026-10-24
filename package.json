@@ -1,0 +1,14 @@
+{
+  "name": "lunarcloud-tech",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "LunarCloud Tech multi-page Node.js hosting website",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
